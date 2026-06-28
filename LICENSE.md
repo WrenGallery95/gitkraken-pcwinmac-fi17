@@ -1,4 +1,4 @@
-# 
+# Leve GitKraken fluxo de trabalho para Mac OS | Ultimato GitKraken fluxo de trabalho para PC Windows. Com fluxo de pull request e builds multiplataforma — otimizado para máximo desempenho em cada plataforma.
 
 
 
